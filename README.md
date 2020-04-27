@@ -1,6 +1,6 @@
 [![Build Status](https://travis-ci.org/watson-developer-cloud/assistant-dialog-skill-analysis.svg?branch=travis_yml)](https://travis-ci.org/watson-developer-cloud/assistant-dialog-skill-analysis)
 
-# Dialog Skill Analysis for Watson Assistant
+# Dialog Skill Analysis 
 
 ## Introduction
 Dialog Skill Analysis is a Python framework along with an easy-to-use Python notebook to help you quickly and effectively build AI assistants using Watson Assistant 
@@ -23,3 +23,6 @@ An introduction to Dialog Skill Analysis on Medium: [Announcing Dialog Skill Ana
 
 ## Hosted Python Notebook
 For those of you familiar with IBM Watson Studio, we have also made a hosted version of the notebook available on the IBM Gallery: [Hosted Dialog Skill Analysis Notebook](https://dataplatform.cloud.ibm.com/exchange/public/entry/view/4d77701840fcb2f21587e39fdb887049)
+
+## Changes
+This model is optimized to enhance accuracy and accomodate external APIs and Webhooks
